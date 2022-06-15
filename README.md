@@ -1,2 +1,2 @@
-<h1>Hi, my name is Gustavo Silva!
-<img src="https://github.com/kaueMarques/kaueMarques/blob/2b78a7d1f4c10713fe73390c6cd771d0dcf6f239/hi.gif" width="10px"></h1>
+<h1>Hi, my name is Gustavo Silva! <img 
+src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h1>
