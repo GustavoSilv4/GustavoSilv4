@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" wi
 
 - 🔭 Atualmente estou estudando sobre Back-End com cursos da Rocketseat.
 
-- 📖 Estou estudando NodeJS, SQL, Express, NextJS, TailwindCSS
+<!-- - 📖 Estou estudando NodeJS, SQL, Express, NextJS, TailwindCSS -->
 
 ## 🔨 &nbsp;Tecnologias que domino
 
