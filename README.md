@@ -3,7 +3,7 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" wi
 
 - 🔥 Desenvolvedor Front-End
 
-- 🔭 Atualmente estou estudando sobre Back-End com cursos da Rocketseat.
+- 🔭 Atualmente estou estudando sobre Frontend/ReactJS com Ignite da Rocketseat.
 
 <!-- - 📖 Estou estudando NodeJS, SQL, Express, NextJS, TailwindCSS -->
 
