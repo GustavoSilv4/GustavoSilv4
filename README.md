@@ -15,9 +15,9 @@ src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" wi
 ## 🚀 Sobre mim
 
 - 👨‍💻 Atualmente focado no desenvolvimento de aplicações modernas com **PHP** e **Laravel**.
-<!-- - 🌱 Estudando boas práticas de desenvolvimento: **TDD**, **Design Patterns** e **Docker**. -->
 - ⚡ Amante de tecnologia, código limpo e soluções eficientes.
 - 📫 Contato: gustavosilv4.contato@email.com
+  <!-- - 🌱 Estudando boas práticas de desenvolvimento: **TDD**, **Design Patterns** e **Docker**. -->
 
 ---
 
